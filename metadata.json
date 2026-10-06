@@ -1,0 +1,7 @@
+{
+  "name": "AI-ATPG & Neural Fault Diagnosis",
+  "description": "Next-generation AI-accelerated Automatic Test Pattern Generation and SSAE neural fault diagnosis for VLSI silicon circuits (ISCAS'85 c6288 benchmark).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
